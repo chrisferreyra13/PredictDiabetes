@@ -17,9 +17,9 @@ Before using the data, I needed to clean it up so that it was usable for our mod
 ## EDA
 I looked at the correlations of the columns and use scatter plot for some relationships. Below are a few highlights. 
 
-![alt text](https://github.com/chrisferreyra13/PredictSalary/blob/master/avg_salary_vs_job.png "Salary by Position")
-![alt text](https://github.com/chrisferreyra13/PredictSalary/blob/master/job_state.png "Job Opportunities by State")
-![alt text](https://github.com/chrisferreyra13/PredictSalary/blob/master/heatmap.png "Correlations")
+![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/correlation.png "Correlations")
+![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/relationships.png "Relationships")
+![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/insulin_glucose.png "Insulin vs Glucose")
 
 ## Model Building 
 
