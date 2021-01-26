@@ -29,16 +29,19 @@ I tried three different models and evaluated them using Accuracy and Matrix conf
 
 I tried three different models:
 *	**Random Forest**
+
 ![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/cm_rf.png "Random forest confusion matrix")
 ![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/rf_report.png "Random forest report")
 * Precision and Recall: The model isn't good. Precision of 58% is not safety.
 
 *	**Balanced Random Forest**
+
 ![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/cm_brf.png "Balanced random forest confusion matrix")
 ![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/brf_report.png "Balanced random forest report")
 * Precision and Recall: Detection of diabetes class is acceptable, but precision is not good.
 
 *	**XGBoost**
+
 ![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/cm_xgb.png "XGBoost confusion matrix")
 ![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/xgb_report.png "XGBoost report")
 * Warning: 72% of Accuracy but recall and precision is under 70%. 
