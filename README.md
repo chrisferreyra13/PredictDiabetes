@@ -27,7 +27,7 @@ First, I splitted the data into train and tests sets with a test size of 20%.
 
 I tried three different models and evaluated them using Accuracy and Matrix confusion.  
 
-I tried three different models:
+Models:
 *	**Random Forest**
 
 ![alt text](https://github.com/chrisferreyra13/PredictDiabetes/blob/master/cm_rf.png "Random forest confusion matrix")
